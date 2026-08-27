@@ -1,0 +1,90 @@
+{
+  "downloads": {
+    "xmb10": {
+      "file_name": "downloads/1-传输助手_米环.1.3.49.rpk",
+      "sha256": "27ef853fb9aea286bc75a55db5ef61ad35657803786f7424b52d0ce1acf9489b",
+      "version": "1.3.49"
+    },
+    "xmb10nfc": {
+      "file_name": "downloads/1-传输助手_米环.1.3.49.rpk",
+      "sha256": "27ef853fb9aea286bc75a55db5ef61ad35657803786f7424b52d0ce1acf9489b",
+      "version": "1.3.49"
+    },
+    "xmb9": {
+      "file_name": "downloads/1-传输助手_米环.1.3.49.rpk",
+      "sha256": "27ef853fb9aea286bc75a55db5ef61ad35657803786f7424b52d0ce1acf9489b",
+      "version": "1.3.49"
+    },
+    "xmb9p": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmrw5": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmrw5xring": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmrw6": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmws3": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmws4": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmws441": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmws4xring": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    },
+    "xmws5": {
+      "file_name": "downloads/0-传输助手_通用_1.3.5.rpk",
+      "sha256": "1be6e4dac1e9e2c41b584a2e45cf5ec94fc27de8c7624710d785c8a30b8cad1c",
+      "version": "1.3.50"
+    }
+  },
+  "ext": {},
+  "item": {
+    "author": [
+      {
+        "bindABAccount": true,
+        "name": "cahkcs"
+      }
+    ],
+    "cover": "media/cover.webp",
+    "description": "- **双向互联，数据随身**：手表 ⇄ 手机图片/笔记双向秒传，分类跨设备一致，出门不带手机也能看到全部资料。\n- **手表即遥控器**：把手机屏幕\"装\"进手表——滑动、点击、双击、轨迹回放，远程操控手机一切。\n- **遥控拍照黑科技**：手表一键按快门，手机自动弹出相机、自动对焦拍摄、照片实时回传手表并存入手机相册，自拍不求人。\n- **出行控制一体化**：手表直接控制九号电摩——开机、关机、鸣笛、开座桶、查电量，骑行体验再升级。\n- **随身翻译官**：手表输入即译，中英互译，直连优先、断网自动中转，出国旅行无压力。内置答案之书\nApk内置心率悬浮窗可以在玩游戏的时候看到红温状态，内置小说自动分割，小说批量导入等\nApk配套下载链接kimi.tax/dVGCg8\n爱发电赞助链接kimi.tax/dkNFpv\n本人官网000.market\n视频教程到b站/小红书/抖音搜索广东非凡",
+    "icon": "media/icon.webp",
+    "id": "com.cahkcs.toxun",
+    "name": "传输+九号电动车控制",
+    "preview": [
+      "media/preview-2.webp",
+      "media/preview-3.webp"
+    ],
+    "restype": "quick_app"
+  },
+  "links": [
+    {
+      "icon": "coins",
+      "title": "购买链接",
+      "url": "https://afdian.com/a/cahkcs?tab=shop"
+    }
+  ]
+}
