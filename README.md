@@ -24,6 +24,7 @@ Apk配套下载链接kimi.tax/dVGCg8
 
 ## 支持设备
 
+- Xiaomi Smart Band 10 Pro（xmb10p）
 - Xiaomi Smart Band 9 Pro（xmb9p）
 - REDMI Watch 5（xmrw5）
 - REDMI Watch 5 eSIM（xmrw5xring）
@@ -41,7 +42,7 @@ Apk配套下载链接kimi.tax/dVGCg8
 
 | 文件 | 版本 | 设备 |
 | --- | --- | --- |
-| [0-传输助手_通用_1.3.5.rpk](downloads/0-传输助手_通用_1.3.5.rpk) | 1.3.50 | Xiaomi Smart Band 9 Pro（xmb9p）<br>REDMI Watch 5（xmrw5）<br>REDMI Watch 5 eSIM（xmrw5xring）<br>REDMI Watch 6（xmrw6）<br>Xiaomi Watch S3（xmws3）<br>Xiaomi Watch S4（xmws4）<br>Xiaomi Watch S4 41mm（xmws441）<br>Xiaomi Watch S4 15th Anniversary（xmws4xring）<br>Xiaomi Watch S5（xmws5） |
+| [0-传输助手_通用_1.3.5.rpk](downloads/0-传输助手_通用_1.3.5.rpk) | 1.3.50 | Xiaomi Smart Band 10 Pro（xmb10p）<br>Xiaomi Smart Band 9 Pro（xmb9p）<br>REDMI Watch 5（xmrw5）<br>REDMI Watch 5 eSIM（xmrw5xring）<br>REDMI Watch 6（xmrw6）<br>Xiaomi Watch S3（xmws3）<br>Xiaomi Watch S4（xmws4）<br>Xiaomi Watch S4 41mm（xmws441）<br>Xiaomi Watch S4 15th Anniversary（xmws4xring）<br>Xiaomi Watch S5（xmws5） |
 | [1-传输助手_米环.1.3.49.rpk](downloads/1-传输助手_米环.1.3.49.rpk) | 1.3.49 | Xiaomi Smart Band 10（xmb10）<br>Xiaomi Smart Band 10 NFC（xmb10nfc）<br>Xiaomi Smart Band 9（xmb9） |
 
 ## 预览
